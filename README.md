@@ -1,5 +1,6 @@
 # meat-tax
 Meat tax research by Animal Ask
+
 This code was written by Animal Ask as part of our research into a meat tax campaign for the UK. The purpose of this code is to reproduce our detailed analysis, mostly to check for errors.
 
 This code runs in the open-source statistical programming software R, which can be downloaded for free at https://cran.r-project.org/
